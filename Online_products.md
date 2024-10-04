@@ -24,5 +24,9 @@ From Design to Production: A Deep Dive into Plastic Injection Molding Machine
 | LED Spacer | [KTRON]() | 1.10(MOQ=30) |<table border="0"><tr><td>LED Size: 15mm</td></tr><tr><td>Spacer Height: 3mm</td></tr></table>| not_yet | <img src="png/led_spacer_15.png" height="48"> |   |
 | LED Spacer | [KTRON]() | 1.25(MOQ=30) |<table border="0"><tr><td>LED Size: 20mm</td></tr><tr><td>Spacer Height: 3mm</td></tr></table>| not_yet | <img src="png/led_spacer_20.png" height="48"> |   |
 | --- | --- | --- |  --- | :---: | :---: |:---:|
-
+| Round_Bush | [KTRON](https://www.ktron.in/product/pcb-round-bush-10x3x10mm/) | 2(MOQ=10) |<table border="0"><tr><td>Outer Diameter: 10mm</td></tr><tr><td>Inner Diameter: 3mm</td></tr><tr><td>Height: 10mm</td></tr></table>| not_yet | <img src="png/Round_Bush_10x3x10mm.png" height="48"> |   |
+| Round_Bush | [KTRON](https://www.ktron.in/product/pcb-round-bush-10x3x10mm/) | 2(MOQ=10) |<table border="0"><tr><td>Outer Diameter: 10mm</td></tr><tr><td>Inner Diameter: 4mm</td></tr><tr><td>Height: 10mm</td></tr></table>| not_yet | <img src="png/Round_Bush_10x4x10mm.png" height="48"> |   |
+| Round_Bush | [KTRON](https://www.ktron.in/product/pcb-round-bush-10x3x10mm/) | 2(MOQ=10) |<table border="0"><tr><td>Outer Diameter: 10mm</td></tr><tr><td>Inner Diameter: 6mm</td></tr><tr><td>Height: 12mm</td></tr></table>| not_yet | <img src="png/Round_Bush_10x6x12mm.png" height="48"> |   |
+| Round_Bush | [KTRON](https://www.ktron.in/product/pcb-round-bush-10x3x10mm/) | 1.70(MOQ=10) |<table border="0"><tr><td>Outer Diameter: 12mm</td></tr><tr><td>Inner Diameter: 5mm</td></tr><tr><td>Height: 6mm</td></tr></table>| not_yet | <img src="png/Round_Bush_12x5x6mm.png" height="48"> |   |
+| --- | --- | --- |  --- | :---: | :---: |:---:|
 
