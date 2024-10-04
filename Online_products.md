@@ -4,7 +4,7 @@ From Design to Production: A Deep Dive into Plastic Injection Molding Machine
 
 
 # PRODUCTS
-| Name | Site_Info | Market_Price| DIM | 3D_openscad | Image |Mold_size|
+| Name | Site_Info | Market_Price| DIM | <table border="0"><tr><td>3D_openscad</td></tr><tr><td>FreeCAD</td></tr></table> | Image |Mold_size|
 | --- | --- | --- |  --- | :---: | :---: |:---:|
 | Name | Site_Info | MOQ| XYZ | 3D_Stl | Image |<img src="png/mould.gif" height="48">|
 | Hex Spacer | [KTRON](https://www.ktron.in/product/m3-x-25mm-hex-spacer-threaded-female/) | 3.98(MOQ=5) |<table border="0"><tr><td>Thread Size: M3</td></tr><tr><td>Spacer Length: 25mm</td></tr></table>| not_yet | <img src="png/m3_25mm.png" height="48"> |   |
@@ -29,5 +29,22 @@ From Design to Production: A Deep Dive into Plastic Injection Molding Machine
 | Round_Bush | [KTRON](https://www.ktron.in/product/pcb-round-bush-10x3x10mm/) | 2(MOQ=10) |<table border="0"><tr><td>Outer Diameter: 10mm</td></tr><tr><td>Inner Diameter: 6mm</td></tr><tr><td>Height: 12mm</td></tr></table>| not_yet | <img src="png/Round_Bush_10x6x12mm.png" height="48"> |   |
 | Round_Bush | [KTRON](https://www.ktron.in/product/pcb-round-bush-10x3x10mm/) | 1.70(MOQ=10) |<table border="0"><tr><td>Outer Diameter: 12mm</td></tr><tr><td>Inner Diameter: 5mm</td></tr><tr><td>Height: 6mm</td></tr></table>| not_yet | <img src="png/Round_Bush_12x5x6mm.png" height="48"> |   |
 | --- | --- | --- |  --- | :---: | :---: |:---:|
+| Round_Bush | [KTRON](https://www.ktron.in/product/pcb-round-bush-10x3x10mm/) | 2(MOQ=10) |<table border="0"><tr><td>    Made of Nylon 66 Natural UL 94 – V2 material.
+    Requires a minimum 4mm hole diameter in the PCB.
+    Designed for PCB thickness of 1.6mm.</td></tr><tr><td>    Chassis hole diameter should be 5.4mm.
+    Compatible with chassis thickness of 1.2-1.4mm.
+    Snap-Fit type.</td></table>| not_yet | <img src="png/1.6mm_PCB_12mm_Snap.png" height="48"> |   |
+
+
+
+
+
+
+
+
+
+
+
+
 
 
