@@ -29,14 +29,11 @@ From Design to Production: A Deep Dive into Plastic Injection Molding Machine
 | Round_Bush | [KTRON](https://www.ktron.in/product/pcb-round-bush-10x3x10mm/) | 2(MOQ=10) |<table border="0"><tr><td>Outer Diameter: 10mm</td></tr><tr><td>Inner Diameter: 6mm</td></tr><tr><td>Height: 12mm</td></tr></table>| not_yet | <img src="png/Round_Bush_10x6x12mm.png" height="48"> |   |
 | Round_Bush | [KTRON](https://www.ktron.in/product/pcb-round-bush-10x3x10mm/) | 1.70(MOQ=10) |<table border="0"><tr><td>Outer Diameter: 12mm</td></tr><tr><td>Inner Diameter: 5mm</td></tr><tr><td>Height: 6mm</td></tr></table>| not_yet | <img src="png/Round_Bush_12x5x6mm.png" height="48"> |   |
 | --- | --- | --- |  --- | :---: | :---: |:---:|
-| Round_Bush | [KTRON](https://www.ktron.in/product/pcb-round-bush-10x3x10mm/) | 2(MOQ=10) |<table border="0"><tr><td>Made of Nylon 66 Natural UL 94 – V2 material.</td></tr><tr><td> Requires a minimum 4mm hole diameter in the PCB.</td></tr><tr><td>Designed for PCB thickness of 1.6mm.</td></tr><tr><td>Chassis hole diameter should be 5.4mm.</td></tr><tr><td>Compatible with chassis thickness of 1.2-1.4mm.</td></tr><tr><td>Snap-Fit type.</td></table>| not_yet | <img src="png/1.6mm_PCB_12mm_Snap.png" height="48"> |   |
-
-
-
-
-
-
-
+| Round_Bush | [KTRON](https://www.ktron.in/product/pcb-locking-spacers-1-6mm-pcb/) | 2(MOQ=10) |<table border="0"><tr><td>Made of Nylon 66 Natural UL 94 – V2 material.</td></tr><tr><td> Requires a minimum 4mm hole diameter in the PCB.</td></tr><tr><td>Designed for PCB thickness of 1.6mm.</td></tr><tr><td>Chassis hole diameter should be 5.4mm.</td></tr><tr><td>Compatible with chassis thickness of 1.2-1.4mm.</td></tr><tr><td>Snap-Fit type.</td></table>| not_yet | <img src="png/1.6mm_PCB_12mm_Snap.png" height="48"> |   |
+| --- | --- | --- |  --- | :---: | :---: |:---:|
+| 18650 Cell Holder_3*1 | [KTRON](https://www.ktron.in/product/1x3-18650-cell-holder/) | 11(MOQ=2) |<table border="0"><tr><td>Battery spacer and holder</td></tr><tr><td>Cylindrical 18650 battery</td></tr><tr><td>1×3</td></tr></table>| not_yet | <img src="png/1_3_18650.png" height="48"> |   |
+| 18650 Cell Holder1*1 | [KTRON](https://www.ktron.in/product/1x1-18650-cell-holder-for-battery-pack/) | 11(MOQ=2) |<table border="0"><tr><td>Battery spacer and holder</td></tr><tr><td>Cylindrical 18650 battery</td></tr><tr><td>1×1</td></tr></table>| not_yet | <img src="png/1_1_18650.png" height="48"> |   |
+| --- | --- | --- |  --- | :---: | :---: |:---:|
 
 
 
