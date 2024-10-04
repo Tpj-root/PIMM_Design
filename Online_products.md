@@ -14,8 +14,15 @@ From Design to Production: A Deep Dive into Plastic Injection Molding Machine
 | Hex Spacer | [KTRON]() | 3.98(MOQ=5) |<table border="0"><tr><td>Thread Size: M3</td></tr><tr><td>Spacer Length: 10mm</td></tr></table>| not_yet | <img src="png/m3_10mm.png" height="48"> |   |
 | --- | --- | --- |  --- | :---: | :---: |:---:|
 | LED Spacer | [KTRON](https://www.ktron.in/product/3mm-led-spacer-height-2mm/) | 0.59(MOQ=30) |<table border="0"><tr><td>LED Size: 3mm</td></tr><tr><td>Spacer Height: 2mm</td></tr></table>| not_yet | <img src="png/led_spacer_2.png" height="48"> |   |
-| LED Spacer | [KTRON]() | 0.59(MOQ=30) |<table border="0"><tr><td>LED Size: 3mm</td></tr><tr><td>Spacer Height: 3mm</td></tr></table>| not_yet | <img src="png/led_spacer_3.png" height="48"> |   |
-
-
+| LED Spacer | [KTRON]() | 0.63(MOQ=30) |<table border="0"><tr><td>LED Size: 3mm</td></tr><tr><td>Spacer Height: 3mm</td></tr></table>| not_yet | <img src="png/led_spacer_3.png" height="48"> |   |
+| LED Spacer | [KTRON]() | 0.66(MOQ=30) |<table border="0"><tr><td>LED Size: 4mm</td></tr><tr><td>Spacer Height: 3mm</td></tr></table>| not_yet | <img src="png/led_spacer_4.png" height="48"> |   |
+| LED Spacer | [KTRON]() | 0.68(MOQ=30) |<table border="0"><tr><td>LED Size: 5mm</td></tr><tr><td>Spacer Height: 3mm</td></tr></table>| not_yet | <img src="png/led_spacer_5.png" height="48"> |   |
+| LED Spacer | [KTRON]() | 0.70(MOQ=30) |<table border="0"><tr><td>LED Size: 6mm</td></tr><tr><td>Spacer Height: 3mm</td></tr></table>| not_yet | <img src="png/led_spacer_6.png" height="48"> |   |
+| LED Spacer | [KTRON]() | 0.78(MOQ=30) |<table border="0"><tr><td>LED Size: 8mm</td></tr><tr><td>Spacer Height: 3mm</td></tr></table>| not_yet | <img src="png/led_spacer_8.png" height="48"> |   |
+| LED Spacer | [KTRON]() | 0.82(MOQ=30) |<table border="0"><tr><td>LED Size: 10mm</td></tr><tr><td>Spacer Height: 3mm</td></tr></table>| not_yet | <img src="png/led_spacer_10.png" height="48"> |   |
+| LED Spacer | [KTRON]() | 0.93(MOQ=30) |<table border="0"><tr><td>LED Size: 12mm</td></tr><tr><td>Spacer Height: 3mm</td></tr></table>| not_yet | <img src="png/led_spacer_12.png" height="48"> |   |
+| LED Spacer | [KTRON]() | 1.10(MOQ=30) |<table border="0"><tr><td>LED Size: 15mm</td></tr><tr><td>Spacer Height: 3mm</td></tr></table>| not_yet | <img src="png/led_spacer_15.png" height="48"> |   |
+| LED Spacer | [KTRON]() | 1.25(MOQ=30) |<table border="0"><tr><td>LED Size: 20mm</td></tr><tr><td>Spacer Height: 3mm</td></tr></table>| not_yet | <img src="png/led_spacer_20.png" height="48"> |   |
+| --- | --- | --- |  --- | :---: | :---: |:---:|
 
 
