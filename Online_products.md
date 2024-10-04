@@ -7,7 +7,7 @@ From Design to Production: A Deep Dive into Plastic Injection Molding Machine
 | Name | Site_Info | Market_Price| DIM | 3D_Stl | Image |Mold_size|
 | --- | --- | --- |  --- | :---: | :---: |:---:|
 | Name | Site_Info | MOQ| XYZ | 3D_Stl | Image |<img src="png/mould.gif" height="48">|
-| Hex Spacer | [KTRON](https://www.ktron.in/product/m3-x-25mm-hex-spacer-threaded-female/) | 3.98(MOQ=5) | <table border="1"><tr><th>Thread Size</th><th>Spacer Length</th></tr><tr><td>M3</td><td>25mm</td></tr></table> | not_yet | <img src="png/m3_25mm.png" height="48"> |   |
+| Hex Spacer | [KTRON](https://www.ktron.in/product/m3-x-25mm-hex-spacer-threaded-female/) | 3.98(MOQ=5) | <table border="1"><tr><td>Thread Size: M3</td><td>Spacer Length: 25mm</td></tr></table>| not_yet | <img src="png/m3_25mm.png" height="48"> |   |
 
 
 
