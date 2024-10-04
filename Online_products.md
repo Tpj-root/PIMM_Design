@@ -40,6 +40,15 @@ From Design to Production: A Deep Dive into Plastic Injection Molding Machine
 
 
 
+Research :
+
+https://in.element14.com/c/fasteners-mechanical/fasteners-fixings/spacers-feet/pcb-supports?srsltid=AfmBOoonDECzE9G4OEUkgfUDHhMM1y-rT4kcYFtSnrISSZKmgcgPiwLM
+
+https://dir.indiamart.com/impcat/pcb-spacer.html
+
+https://kottke.org/24/09/a-fun-taxonomy-of-bread-tags
+
+
 
 
 
